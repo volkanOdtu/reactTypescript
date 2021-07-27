@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pictogram/industry-and-company-and-business/account-customer</title>
+    <defs>
+        <path d="M50,0 C22.4300822,0 0,22.4298906 0,50.0004271 C0,77.5701094 22.4300822,100 50,100 C77.570772,100 100,77.5701094 100,50.0004271 C100,22.4298906 77.570772,0 50,0 L50,0 Z" id="path-1"></path>
+    </defs>
+    <g id="pictogram/industry-and-company-and-business/account-customer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M140,70 C140,108.65995 108.65995,140 70,140 C31.34005,140 0,108.65995 0,70 C0,31.34005 31.34005,0 70,0 C108.65995,0 140,31.34005 140,70" id="Mask" fill="#91BFE3"></path>
+            <g id="Fill-1-and-Fill-3-Mask" transform="translate(20.000000, 20.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#23366F" xlink:href="#path-1"></use>
+                <path d="M69,33.5 C69,44.2697391 60.2695511,53 49.5,53 C38.7304489,53 30,44.2697391 30,33.5 C30,22.7302609 38.7304489,14 49.5,14 C60.2695511,14 69,22.7302609 69,33.5" id="Fill-1" fill="#DAD2BD" mask="url(#mask-2)"></path>
+                <path d="M81,109 L20,109 L20,85.7437616 C20,69.3166976 33.4267778,56 49.9892944,56 L51.0107056,56 C67.5732222,56 81,69.3166976 81,85.7437616 L81,109 Z" id="Fill-3" fill="#DAD2BD" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
